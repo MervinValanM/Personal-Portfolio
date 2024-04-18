@@ -1,5 +1,5 @@
-HTML code - Website skeleton
+HTML       - Website skeleton
 
-CSS - styling the website
+CSS        - styling the website
 
 JavaScript - Performing the functions
