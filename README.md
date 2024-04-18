@@ -1,5 +1,5 @@
-HTML       - Website skeleton
+HTML       - Website skeleton.
 
-CSS        - styling the website
+CSS        - styling the website.
 
-JavaScript - Performing the functions
+JavaScript - Performing the functions.
